@@ -3,6 +3,14 @@ body {
   font-family: Candara, sans-serif;
   margin: 0;
 }
+h1 {
+  font-family: Georgia, serif;
+  color: #041620;
+}
+h2 {
+  font-family: Georgia, serif;
+  color: #0a1e28;
+}
 #Main {
   background-color: #fff;
   margin: 0;
@@ -11,6 +19,8 @@ body {
 #ExtLinks {
   background-color: #8aa2a6;
   margin: 0;
+  text-align: center;
+  font-family: Arial, sans-serif;
   /* Part of the fixed position */
   position: fixed;
   bottom: 0;
