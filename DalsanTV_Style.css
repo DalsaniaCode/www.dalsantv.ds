@@ -2,7 +2,6 @@ body {
   background-color: #e2f8ff;
   font-family: Candara, sans-serif;
   margin: 0;
-  padding: 0px 10px;
 }
 h1 {
   font-family: Georgia, serif;
@@ -16,6 +15,10 @@ h2 {
   background-color: #fff;
   margin: 0;
   padding: 10px;
+}
+#FocusBody {
+  margin: 0;
+  padding: 0px 15px;
 }
 #ExtLinks {
   background-color: #8aa2a6;
