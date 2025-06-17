@@ -3,12 +3,12 @@ body {
   font-family: Candara, sans-serif;
   margin: 0;
 }
-#Upper {
+#Main {
   background-color: #fff;
   margin: 0;
   padding: 10px;
 }
-#Bottom {
+#ExtLinks {
   background-color: #8aa2a6;
   margin: 0;
   position: fixed;
