@@ -11,7 +11,12 @@ body {
 #ExtLinks {
   background-color: #8aa2a6;
   margin: 0;
+  /* Part of the fixed position */
   position: fixed;
+  bottom: 0;
+  left: 0;
+  width: -webkit-fill-available;
+  padding: 10px 0px;
 }
 
 #LogoText {
