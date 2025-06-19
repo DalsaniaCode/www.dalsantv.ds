@@ -1,4 +1,6 @@
 # www.dalsantv.ds
-A new Social media called DalsanTV. Is plained to be a mega app and more of it's limits of functions. Warning!!! This page still in beta because the plainned correct mission of DalsanTV is not ended and they can have a serial problem.
+A new social media platform called DalsanTV. It is planned to be a mega app with many advanced features.
+Warning: This page is still in beta because the planned full mission of DalsanTV is not yet complete, and there may still be several issues.
 
-For all programers, help me to correct english sentences. I tell this because some HTML websites I write this with a bad english, so I want programmers to correct my english sentences or texts written in my repository. Thanks
+To all programmers:
+Please help me correct any English sentences or texts in this repository. Some of the HTML websites may contain mistakes, so I appreciate any corrections or improvements you can make. Thank you!
