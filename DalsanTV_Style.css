@@ -37,3 +37,14 @@ h2 {
   width: auto;
   height: 45px;
 }
+.StyleButton {
+  background-color: #12506c;
+  color: white;
+  border: unset;
+  border-radius: 10px;
+  font-size: 20px;
+  /* Position and Button size */
+  margin: 20px 0px;
+  padding: 20px;
+  width: 100%;
+}
