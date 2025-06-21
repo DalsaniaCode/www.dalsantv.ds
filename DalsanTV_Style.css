@@ -47,4 +47,9 @@ h2 {
   margin: 20px 0px;
   padding: 20px;
   width: 100%;
+  /* Sensor mouse */
+  cursor: pointer;
+}
+.StyleButton:hover {
+  background-color: #3a8399;
 }
